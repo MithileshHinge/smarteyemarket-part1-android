@@ -5,6 +5,7 @@ import android.content.Intent;
 import android.content.SharedPreferences;
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
+import android.media.MediaPlayer;
 import android.renderscript.ScriptGroup;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
@@ -13,6 +14,7 @@ import android.widget.Button;
 import android.widget.CompoundButton;
 import android.widget.EditText;
 import android.widget.ImageView;
+import android.widget.MediaController;
 import android.widget.Toast;
 import android.widget.ToggleButton;
 import android.widget.VideoView;
@@ -53,6 +55,8 @@ public class MainActivity extends AppCompatActivity {
         servername = lastIP;
         ToggleButton xB = (ToggleButton) findViewById(R.id.xB);
         assert xB != null;
+
+        jVV.setMediaController(new MediaController(this));
 
         Intent intent = getIntent();
         videoNotifID = intent.getIntExtra("video_notif_id", -1);
@@ -104,14 +108,26 @@ public class MainActivity extends AppCompatActivity {
                             runOnUiThread(new Runnable() {
                                 @Override
                                 public void run() {
+                                    Toast.makeText(context, "Download successful.", Toast.LENGTH_LONG).show();
                                     jIV.setVisibility(View.GONE);
-                                    String filepath = getFilesDir().getPath() + File.pathSeparator +filename;
+                                    String filepath = getFilesDir().getPath()+"/"+filename;
                                     jVV.setVideoPath(filepath);
                                     jVV.setVisibility(View.VISIBLE);
+                                    jVV.setOnPreparedListener(new MediaPlayer.OnPreparedListener() {
+                                        @Override
+                                        public void onPrepared(MediaPlayer mp) {
+                                            jVV.start();
+                                        }
+                                    });
                                 }
                             });
                         } catch (IOException e) {
-                            Toast.makeText(context, "Download failed.", Toast.LENGTH_LONG).show();
+                            runOnUiThread(new Runnable() {
+                                @Override
+                                public void run() {
+                                    Toast.makeText(context, "Download failed.", Toast.LENGTH_LONG).show();
+                                }
+                            });
                             e.printStackTrace();
                         }
                     }
@@ -141,6 +157,7 @@ public class MainActivity extends AppCompatActivity {
 
         });
     }
+
     @Override
     protected void onStop() {
         SharedPreferences sp = getSharedPreferences("myPrefs", MODE_PRIVATE);

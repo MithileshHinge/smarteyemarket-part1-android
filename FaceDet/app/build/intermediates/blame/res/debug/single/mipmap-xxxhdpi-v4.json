@@ -4,6 +4,10 @@
         "source": "/Users/mithileshhinge/AndroidStudioProjects/FaceDet/C:\\Users\\Sibhali\\Desktop\\FaceDet\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
     },
     {
+        "merged": "/Users/mithileshhinge/Documents/Github/SmartEyeMarket/Part1/smarteyemarket-part1-android/FaceDet/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi-v4/ic_launcher.png",
+        "source": "/Users/mithileshhinge/Documents/Github/SmartEyeMarket/Part1/smarteyemarket-part1-android/FaceDet/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
         "merged": "/Users/mithileshhinge/AndroidStudioProjects/FaceDet/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi-v4/ic_launcher.png",
         "source": "/Users/mithileshhinge/AndroidStudioProjects/FaceDet/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
     }
