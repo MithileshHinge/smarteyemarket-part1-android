@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/Users/mithileshhinge/AndroidStudioProjects/FaceDet/app/build/intermediates/res/merged/debug/values-hdpi-v4/values-hdpi-v4.xml",
+        "outputFile": "A:\\Users\\mithileshhinge\\Documents\\Github\\SmartEyeMarket\\Part1\\smarteyemarket-part1-android\\FaceDet\\app\\build\\intermediates\\res\\merged\\debug\\values-hdpi-v4\\values-hdpi-v4.xml",
         "map": [
             {
                 "to": {
@@ -12,7 +12,7 @@
                     "endOffset": 327
                 },
                 "from": {
-                    "file": "/Users/mithileshhinge/AndroidStudioProjects/FaceDet/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-hdpi/values-hdpi.xml",
+                    "file": "A:\\Users\\mithileshhinge\\Documents\\Github\\SmartEyeMarket\\Part1\\smarteyemarket-part1-android\\FaceDet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-hdpi\\values-hdpi.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -26,7 +26,7 @@
         ]
     },
     {
-        "outputFile": "/Users/mithileshhinge/Documents/Github/SmartEyeMarket/Part1/smarteyemarket-part1-android/FaceDet/app/build/intermediates/res/merged/debug/values-hdpi-v4/values-hdpi-v4.xml",
+        "outputFile": "A:\\SmartEye\\SmartEye_market\\Part1\\android\\smarteyemarket-part1-android\\FaceDet\\app\\build\\intermediates\\res\\merged\\debug\\values-hdpi-v4\\values-hdpi-v4.xml",
         "map": [
             {
                 "to": {
@@ -38,7 +38,7 @@
                     "endOffset": 327
                 },
                 "from": {
-                    "file": "/Users/mithileshhinge/Documents/Github/SmartEyeMarket/Part1/smarteyemarket-part1-android/FaceDet/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-hdpi/values-hdpi.xml",
+                    "file": "A:\\SmartEye\\SmartEye_market\\Part1\\android\\smarteyemarket-part1-android\\FaceDet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-hdpi\\values-hdpi.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -52,7 +52,7 @@
         ]
     },
     {
-        "outputFile": "/Users/mithileshhinge/AndroidStudioProjects/FaceDet/C:\\Users\\Sibhali\\Desktop\\FaceDet\\app\\build\\intermediates\\res\\merged\\debug\\values-hdpi-v4\\values-hdpi-v4.xml",
+        "outputFile": "A:\\Users\\mithileshhinge\\AndroidStudioProjects\\FaceDet\\app\\build\\intermediates\\res\\merged\\debug\\values-hdpi-v4\\values-hdpi-v4.xml",
         "map": [
             {
                 "to": {
@@ -64,7 +64,33 @@
                     "endOffset": 327
                 },
                 "from": {
-                    "file": "/Users/mithileshhinge/AndroidStudioProjects/FaceDet/C:\\Users\\Sibhali\\Desktop\\FaceDet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
+                    "file": "A:\\Users\\mithileshhinge\\AndroidStudioProjects\\FaceDet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-hdpi\\values-hdpi.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 282,
+                        "endLine": 8,
+                        "endColumn": 13,
+                        "endOffset": 554
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "A:\\Users\\mithileshhinge\\AndroidStudioProjects\\FaceDet\\C:\\Users\\Sibhali\\Desktop\\FaceDet\\app\\build\\intermediates\\res\\merged\\debug\\values-hdpi-v4\\values-hdpi-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 6,
+                    "endColumn": 13,
+                    "endOffset": 327
+                },
+                "from": {
+                    "file": "A:\\Users\\mithileshhinge\\AndroidStudioProjects\\FaceDet\\C:\\Users\\Sibhali\\Desktop\\FaceDet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,

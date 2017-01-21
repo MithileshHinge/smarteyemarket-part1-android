@@ -35,7 +35,7 @@ public class MainActivity extends AppCompatActivity {
     public static EditText jIP;
     public static VideoView jVV;
     public static String servername;
-
+    public static Button LiveFeed;
     private static Socket sReceiveVideo;
 
     private static int videoNotifID;
@@ -45,6 +45,8 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         context = getApplicationContext();
+
+        LiveFeed = (Button) findViewById(R.id.livefeedbutton);
 
         SharedPreferences sp = getSharedPreferences("myPrefs", MODE_PRIVATE);
         final String lastIP = sp.getString("Pref_IP", "");
@@ -181,4 +183,10 @@ public class MainActivity extends AppCompatActivity {
         }
         return null;
     }
+
+    public void open_livefeed(View view) {
+        Intent intent = new Intent(this, DisplayImageActivity.class);
+        startActivity(intent);
+    }
+
 }

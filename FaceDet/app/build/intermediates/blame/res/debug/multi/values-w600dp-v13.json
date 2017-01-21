@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/Users/mithileshhinge/Documents/Github/SmartEyeMarket/Part1/smarteyemarket-part1-android/FaceDet/app/build/intermediates/res/merged/debug/values-w600dp-v13/values-w600dp-v13.xml",
+        "outputFile": "A:\\SmartEye\\SmartEye_market\\Part1\\android\\smarteyemarket-part1-android\\FaceDet\\app\\build\\intermediates\\res\\merged\\debug\\values-w600dp-v13\\values-w600dp-v13.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 114
                 },
                 "from": {
-                    "file": "/Users/mithileshhinge/Documents/Github/SmartEyeMarket/Part1/smarteyemarket-part1-android/FaceDet/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-w600dp/values-w600dp.xml",
+                    "file": "A:\\SmartEye\\SmartEye_market\\Part1\\android\\smarteyemarket-part1-android\\FaceDet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-w600dp\\values-w600dp.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -30,7 +30,7 @@
                     "endOffset": 169
                 },
                 "from": {
-                    "file": "/Users/mithileshhinge/Documents/Github/SmartEyeMarket/Part1/smarteyemarket-part1-android/FaceDet/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-w600dp/values-w600dp.xml",
+                    "file": "A:\\SmartEye\\SmartEye_market\\Part1\\android\\smarteyemarket-part1-android\\FaceDet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-w600dp\\values-w600dp.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -43,7 +43,7 @@
         ]
     },
     {
-        "outputFile": "/Users/mithileshhinge/AndroidStudioProjects/FaceDet/app/build/intermediates/res/merged/debug/values-w600dp-v13/values-w600dp-v13.xml",
+        "outputFile": "A:\\Users\\mithileshhinge\\Documents\\Github\\SmartEyeMarket\\Part1\\smarteyemarket-part1-android\\FaceDet\\app\\build\\intermediates\\res\\merged\\debug\\values-w600dp-v13\\values-w600dp-v13.xml",
         "map": [
             {
                 "to": {
@@ -54,7 +54,7 @@
                     "endOffset": 114
                 },
                 "from": {
-                    "file": "/Users/mithileshhinge/AndroidStudioProjects/FaceDet/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-w600dp/values-w600dp.xml",
+                    "file": "A:\\Users\\mithileshhinge\\Documents\\Github\\SmartEyeMarket\\Part1\\smarteyemarket-part1-android\\FaceDet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-w600dp\\values-w600dp.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -73,7 +73,50 @@
                     "endOffset": 169
                 },
                 "from": {
-                    "file": "/Users/mithileshhinge/AndroidStudioProjects/FaceDet/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-w600dp/values-w600dp.xml",
+                    "file": "A:\\Users\\mithileshhinge\\Documents\\Github\\SmartEyeMarket\\Part1\\smarteyemarket-part1-android\\FaceDet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-w600dp\\values-w600dp.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 343,
+                        "endColumn": 54,
+                        "endOffset": 393
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "A:\\Users\\mithileshhinge\\AndroidStudioProjects\\FaceDet\\app\\build\\intermediates\\res\\merged\\debug\\values-w600dp-v13\\values-w600dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 63,
+                    "endOffset": 114
+                },
+                "from": {
+                    "file": "A:\\Users\\mithileshhinge\\AndroidStudioProjects\\FaceDet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-w600dp\\values-w600dp.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 279,
+                        "endColumn": 63,
+                        "endOffset": 338
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 119,
+                    "endColumn": 54,
+                    "endOffset": 169
+                },
+                "from": {
+                    "file": "A:\\Users\\mithileshhinge\\AndroidStudioProjects\\FaceDet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-w600dp\\values-w600dp.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,

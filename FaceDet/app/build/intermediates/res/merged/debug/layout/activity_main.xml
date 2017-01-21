@@ -46,4 +46,14 @@
         android:layout_alignParentStart="true"
         android:visibility="gone"/>
 
+    <Button
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="LIVE FEED"
+        android:id="@+id/livefeedbutton"
+        android:layout_alignBottom="@+id/xB"
+        android:layout_centerHorizontal="true"
+        android:onClick="open_livefeed"/>
+
 </RelativeLayout>

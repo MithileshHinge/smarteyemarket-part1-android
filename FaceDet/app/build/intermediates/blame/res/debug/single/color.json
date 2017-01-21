@@ -1,174 +1,210 @@
 [
     {
-        "merged": "/Users/mithileshhinge/Documents/Github/SmartEyeMarket/Part1/smarteyemarket-part1-android/FaceDet/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
-        "source": "/Users/mithileshhinge/Documents/Github/SmartEyeMarket/Part1/smarteyemarket-part1-android/FaceDet/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/color/abc_primary_text_disable_only_material_dark.xml"
+        "merged": "A:\\SmartEye\\SmartEye_market\\Part1\\android\\smarteyemarket-part1-android\\FaceDet\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
+        "source": "A:\\SmartEye\\SmartEye_market\\Part1\\android\\smarteyemarket-part1-android\\FaceDet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\color\\abc_search_url_text.xml"
     },
     {
-        "merged": "/Users/mithileshhinge/AndroidStudioProjects/FaceDet/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
-        "source": "/Users/mithileshhinge/AndroidStudioProjects/FaceDet/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/color/abc_primary_text_disable_only_material_dark.xml"
+        "merged": "A:\\Users\\mithileshhinge\\AndroidStudioProjects\\FaceDet\\C:\\Users\\Sibhali\\Desktop\\FaceDet\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_seek_thumb.xml",
+        "source": "A:\\Users\\mithileshhinge\\AndroidStudioProjects\\FaceDet\\C:\\Users\\Sibhali\\Desktop\\FaceDet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\color\\abc_tint_seek_thumb.xml"
     },
     {
-        "merged": "/Users/mithileshhinge/AndroidStudioProjects/FaceDet/C:\\Users\\Sibhali\\Desktop\\FaceDet\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_btn_checkable.xml",
-        "source": "/Users/mithileshhinge/AndroidStudioProjects/FaceDet/C:\\Users\\Sibhali\\Desktop\\FaceDet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\color\\abc_tint_btn_checkable.xml"
+        "merged": "A:\\SmartEye\\SmartEye_market\\Part1\\android\\smarteyemarket-part1-android\\FaceDet\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "A:\\SmartEye\\SmartEye_market\\Part1\\android\\smarteyemarket-part1-android\\FaceDet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\color\\abc_primary_text_disable_only_material_light.xml"
     },
     {
-        "merged": "/Users/mithileshhinge/Documents/Github/SmartEyeMarket/Part1/smarteyemarket-part1-android/FaceDet/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
-        "source": "/Users/mithileshhinge/Documents/Github/SmartEyeMarket/Part1/smarteyemarket-part1-android/FaceDet/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/color/abc_secondary_text_material_dark.xml"
+        "merged": "A:\\Users\\mithileshhinge\\AndroidStudioProjects\\FaceDet\\C:\\Users\\Sibhali\\Desktop\\FaceDet\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
+        "source": "A:\\Users\\mithileshhinge\\AndroidStudioProjects\\FaceDet\\C:\\Users\\Sibhali\\Desktop\\FaceDet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\color\\abc_search_url_text.xml"
     },
     {
-        "merged": "/Users/mithileshhinge/AndroidStudioProjects/FaceDet/app/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
-        "source": "/Users/mithileshhinge/AndroidStudioProjects/FaceDet/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/color/switch_thumb_material_light.xml"
+        "merged": "A:\\SmartEye\\SmartEye_market\\Part1\\android\\smarteyemarket-part1-android\\FaceDet\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "A:\\SmartEye\\SmartEye_market\\Part1\\android\\smarteyemarket-part1-android\\FaceDet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
     },
     {
-        "merged": "/Users/mithileshhinge/Documents/Github/SmartEyeMarket/Part1/smarteyemarket-part1-android/FaceDet/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
-        "source": "/Users/mithileshhinge/Documents/Github/SmartEyeMarket/Part1/smarteyemarket-part1-android/FaceDet/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/color/abc_primary_text_disable_only_material_light.xml"
+        "merged": "A:\\SmartEye\\SmartEye_market\\Part1\\android\\smarteyemarket-part1-android\\FaceDet\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "A:\\SmartEye\\SmartEye_market\\Part1\\android\\smarteyemarket-part1-android\\FaceDet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\color\\abc_primary_text_material_light.xml"
     },
     {
-        "merged": "/Users/mithileshhinge/AndroidStudioProjects/FaceDet/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
-        "source": "/Users/mithileshhinge/AndroidStudioProjects/FaceDet/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/color/abc_primary_text_material_light.xml"
+        "merged": "A:\\Users\\mithileshhinge\\AndroidStudioProjects\\FaceDet\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_default.xml",
+        "source": "A:\\Users\\mithileshhinge\\AndroidStudioProjects\\FaceDet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\color\\abc_tint_default.xml"
     },
     {
-        "merged": "/Users/mithileshhinge/AndroidStudioProjects/FaceDet/app/build/intermediates/res/merged/debug/color/abc_tint_default.xml",
-        "source": "/Users/mithileshhinge/AndroidStudioProjects/FaceDet/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/color/abc_tint_default.xml"
+        "merged": "A:\\Users\\mithileshhinge\\AndroidStudioProjects\\FaceDet\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_borderless_text_material.xml",
+        "source": "A:\\Users\\mithileshhinge\\AndroidStudioProjects\\FaceDet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\color\\abc_btn_colored_borderless_text_material.xml"
     },
     {
-        "merged": "/Users/mithileshhinge/AndroidStudioProjects/FaceDet/app/build/intermediates/res/merged/debug/color/abc_tint_switch_thumb.xml",
-        "source": "/Users/mithileshhinge/AndroidStudioProjects/FaceDet/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/color/abc_tint_switch_thumb.xml"
+        "merged": "A:\\Users\\mithileshhinge\\AndroidStudioProjects\\FaceDet\\C:\\Users\\Sibhali\\Desktop\\FaceDet\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "A:\\Users\\mithileshhinge\\AndroidStudioProjects\\FaceDet\\C:\\Users\\Sibhali\\Desktop\\FaceDet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\color\\switch_thumb_material_light.xml"
     },
     {
-        "merged": "/Users/mithileshhinge/AndroidStudioProjects/FaceDet/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
-        "source": "/Users/mithileshhinge/AndroidStudioProjects/FaceDet/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/color/abc_primary_text_material_dark.xml"
+        "merged": "A:\\Users\\mithileshhinge\\Documents\\Github\\SmartEyeMarket\\Part1\\smarteyemarket-part1-android\\FaceDet\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "A:\\Users\\mithileshhinge\\Documents\\Github\\SmartEyeMarket\\Part1\\smarteyemarket-part1-android\\FaceDet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\color\\abc_secondary_text_material_dark.xml"
     },
     {
-        "merged": "/Users/mithileshhinge/AndroidStudioProjects/FaceDet/C:\\Users\\Sibhali\\Desktop\\FaceDet\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
-        "source": "/Users/mithileshhinge/AndroidStudioProjects/FaceDet/C:\\Users\\Sibhali\\Desktop\\FaceDet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\color\\abc_secondary_text_material_dark.xml"
+        "merged": "A:\\Users\\mithileshhinge\\AndroidStudioProjects\\FaceDet\\C:\\Users\\Sibhali\\Desktop\\FaceDet\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "A:\\Users\\mithileshhinge\\AndroidStudioProjects\\FaceDet\\C:\\Users\\Sibhali\\Desktop\\FaceDet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\color\\abc_primary_text_disable_only_material_light.xml"
     },
     {
-        "merged": "/Users/mithileshhinge/AndroidStudioProjects/FaceDet/app/build/intermediates/res/merged/debug/color/abc_tint_btn_checkable.xml",
-        "source": "/Users/mithileshhinge/AndroidStudioProjects/FaceDet/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/color/abc_tint_btn_checkable.xml"
+        "merged": "A:\\SmartEye\\SmartEye_market\\Part1\\android\\smarteyemarket-part1-android\\FaceDet\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "A:\\SmartEye\\SmartEye_market\\Part1\\android\\smarteyemarket-part1-android\\FaceDet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\color\\switch_thumb_material_light.xml"
     },
     {
-        "merged": "/Users/mithileshhinge/Documents/Github/SmartEyeMarket/Part1/smarteyemarket-part1-android/FaceDet/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
-        "source": "/Users/mithileshhinge/Documents/Github/SmartEyeMarket/Part1/smarteyemarket-part1-android/FaceDet/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/color/abc_primary_text_material_dark.xml"
+        "merged": "A:\\Users\\mithileshhinge\\AndroidStudioProjects\\FaceDet\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_thumb.xml",
+        "source": "A:\\Users\\mithileshhinge\\AndroidStudioProjects\\FaceDet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\color\\abc_tint_switch_thumb.xml"
     },
     {
-        "merged": "/Users/mithileshhinge/AndroidStudioProjects/FaceDet/app/build/intermediates/res/merged/debug/color/abc_tint_switch_track.xml",
-        "source": "/Users/mithileshhinge/AndroidStudioProjects/FaceDet/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/color/abc_tint_switch_track.xml"
+        "merged": "A:\\Users\\mithileshhinge\\Documents\\Github\\SmartEyeMarket\\Part1\\smarteyemarket-part1-android\\FaceDet\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "A:\\Users\\mithileshhinge\\Documents\\Github\\SmartEyeMarket\\Part1\\smarteyemarket-part1-android\\FaceDet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\color\\abc_primary_text_material_light.xml"
     },
     {
-        "merged": "/Users/mithileshhinge/AndroidStudioProjects/FaceDet/C:\\Users\\Sibhali\\Desktop\\FaceDet\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_borderless_text_material.xml",
-        "source": "/Users/mithileshhinge/AndroidStudioProjects/FaceDet/C:\\Users\\Sibhali\\Desktop\\FaceDet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\color\\abc_btn_colored_borderless_text_material.xml"
+        "merged": "A:\\Users\\mithileshhinge\\AndroidStudioProjects\\FaceDet\\C:\\Users\\Sibhali\\Desktop\\FaceDet\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "A:\\Users\\mithileshhinge\\AndroidStudioProjects\\FaceDet\\C:\\Users\\Sibhali\\Desktop\\FaceDet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\color\\abc_secondary_text_material_light.xml"
     },
     {
-        "merged": "/Users/mithileshhinge/AndroidStudioProjects/FaceDet/C:\\Users\\Sibhali\\Desktop\\FaceDet\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
-        "source": "/Users/mithileshhinge/AndroidStudioProjects/FaceDet/C:\\Users\\Sibhali\\Desktop\\FaceDet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+        "merged": "A:\\SmartEye\\SmartEye_market\\Part1\\android\\smarteyemarket-part1-android\\FaceDet\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "A:\\SmartEye\\SmartEye_market\\Part1\\android\\smarteyemarket-part1-android\\FaceDet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\color\\abc_secondary_text_material_dark.xml"
     },
     {
-        "merged": "/Users/mithileshhinge/AndroidStudioProjects/FaceDet/C:\\Users\\Sibhali\\Desktop\\FaceDet\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_seek_thumb.xml",
-        "source": "/Users/mithileshhinge/AndroidStudioProjects/FaceDet/C:\\Users\\Sibhali\\Desktop\\FaceDet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\color\\abc_tint_seek_thumb.xml"
+        "merged": "A:\\Users\\mithileshhinge\\Documents\\Github\\SmartEyeMarket\\Part1\\smarteyemarket-part1-android\\FaceDet\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "A:\\Users\\mithileshhinge\\Documents\\Github\\SmartEyeMarket\\Part1\\smarteyemarket-part1-android\\FaceDet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\color\\switch_thumb_material_dark.xml"
     },
     {
-        "merged": "/Users/mithileshhinge/AndroidStudioProjects/FaceDet/C:\\Users\\Sibhali\\Desktop\\FaceDet\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_track.xml",
-        "source": "/Users/mithileshhinge/AndroidStudioProjects/FaceDet/C:\\Users\\Sibhali\\Desktop\\FaceDet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\color\\abc_tint_switch_track.xml"
+        "merged": "A:\\Users\\mithileshhinge\\AndroidStudioProjects\\FaceDet\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_edittext.xml",
+        "source": "A:\\Users\\mithileshhinge\\AndroidStudioProjects\\FaceDet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\color\\abc_tint_edittext.xml"
     },
     {
-        "merged": "/Users/mithileshhinge/Documents/Github/SmartEyeMarket/Part1/smarteyemarket-part1-android/FaceDet/app/build/intermediates/res/merged/debug/color/switch_thumb_material_dark.xml",
-        "source": "/Users/mithileshhinge/Documents/Github/SmartEyeMarket/Part1/smarteyemarket-part1-android/FaceDet/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/color/switch_thumb_material_dark.xml"
+        "merged": "A:\\Users\\mithileshhinge\\Documents\\Github\\SmartEyeMarket\\Part1\\smarteyemarket-part1-android\\FaceDet\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "A:\\Users\\mithileshhinge\\Documents\\Github\\SmartEyeMarket\\Part1\\smarteyemarket-part1-android\\FaceDet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\color\\switch_thumb_material_light.xml"
     },
     {
-        "merged": "/Users/mithileshhinge/AndroidStudioProjects/FaceDet/C:\\Users\\Sibhali\\Desktop\\FaceDet\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
-        "source": "/Users/mithileshhinge/AndroidStudioProjects/FaceDet/C:\\Users\\Sibhali\\Desktop\\FaceDet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\color\\abc_search_url_text.xml"
+        "merged": "A:\\Users\\mithileshhinge\\AndroidStudioProjects\\FaceDet\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_track.xml",
+        "source": "A:\\Users\\mithileshhinge\\AndroidStudioProjects\\FaceDet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\color\\abc_tint_switch_track.xml"
     },
     {
-        "merged": "/Users/mithileshhinge/AndroidStudioProjects/FaceDet/C:\\Users\\Sibhali\\Desktop\\FaceDet\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_spinner.xml",
-        "source": "/Users/mithileshhinge/AndroidStudioProjects/FaceDet/C:\\Users\\Sibhali\\Desktop\\FaceDet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\color\\abc_tint_spinner.xml"
+        "merged": "A:\\Users\\mithileshhinge\\AndroidStudioProjects\\FaceDet\\C:\\Users\\Sibhali\\Desktop\\FaceDet\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_borderless_text_material.xml",
+        "source": "A:\\Users\\mithileshhinge\\AndroidStudioProjects\\FaceDet\\C:\\Users\\Sibhali\\Desktop\\FaceDet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\color\\abc_btn_colored_borderless_text_material.xml"
     },
     {
-        "merged": "/Users/mithileshhinge/Documents/Github/SmartEyeMarket/Part1/smarteyemarket-part1-android/FaceDet/app/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
-        "source": "/Users/mithileshhinge/Documents/Github/SmartEyeMarket/Part1/smarteyemarket-part1-android/FaceDet/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/color/abc_search_url_text.xml"
+        "merged": "A:\\Users\\mithileshhinge\\AndroidStudioProjects\\FaceDet\\C:\\Users\\Sibhali\\Desktop\\FaceDet\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_spinner.xml",
+        "source": "A:\\Users\\mithileshhinge\\AndroidStudioProjects\\FaceDet\\C:\\Users\\Sibhali\\Desktop\\FaceDet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\color\\abc_tint_spinner.xml"
     },
     {
-        "merged": "/Users/mithileshhinge/Documents/Github/SmartEyeMarket/Part1/smarteyemarket-part1-android/FaceDet/app/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
-        "source": "/Users/mithileshhinge/Documents/Github/SmartEyeMarket/Part1/smarteyemarket-part1-android/FaceDet/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/color/switch_thumb_material_light.xml"
+        "merged": "A:\\Users\\mithileshhinge\\Documents\\Github\\SmartEyeMarket\\Part1\\smarteyemarket-part1-android\\FaceDet\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "A:\\Users\\mithileshhinge\\Documents\\Github\\SmartEyeMarket\\Part1\\smarteyemarket-part1-android\\FaceDet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
     },
     {
-        "merged": "/Users/mithileshhinge/AndroidStudioProjects/FaceDet/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
-        "source": "/Users/mithileshhinge/AndroidStudioProjects/FaceDet/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/color/abc_secondary_text_material_light.xml"
+        "merged": "A:\\Users\\mithileshhinge\\AndroidStudioProjects\\FaceDet\\C:\\Users\\Sibhali\\Desktop\\FaceDet\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_track.xml",
+        "source": "A:\\Users\\mithileshhinge\\AndroidStudioProjects\\FaceDet\\C:\\Users\\Sibhali\\Desktop\\FaceDet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\color\\abc_tint_switch_track.xml"
     },
     {
-        "merged": "/Users/mithileshhinge/AndroidStudioProjects/FaceDet/app/build/intermediates/res/merged/debug/color/abc_tint_edittext.xml",
-        "source": "/Users/mithileshhinge/AndroidStudioProjects/FaceDet/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/color/abc_tint_edittext.xml"
+        "merged": "A:\\Users\\mithileshhinge\\AndroidStudioProjects\\FaceDet\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_spinner.xml",
+        "source": "A:\\Users\\mithileshhinge\\AndroidStudioProjects\\FaceDet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\color\\abc_tint_spinner.xml"
     },
     {
-        "merged": "/Users/mithileshhinge/AndroidStudioProjects/FaceDet/C:\\Users\\Sibhali\\Desktop\\FaceDet\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
-        "source": "/Users/mithileshhinge/AndroidStudioProjects/FaceDet/C:\\Users\\Sibhali\\Desktop\\FaceDet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\color\\abc_secondary_text_material_light.xml"
+        "merged": "A:\\Users\\mithileshhinge\\AndroidStudioProjects\\FaceDet\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "A:\\Users\\mithileshhinge\\AndroidStudioProjects\\FaceDet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\color\\abc_primary_text_disable_only_material_light.xml"
     },
     {
-        "merged": "/Users/mithileshhinge/AndroidStudioProjects/FaceDet/C:\\Users\\Sibhali\\Desktop\\FaceDet\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
-        "source": "/Users/mithileshhinge/AndroidStudioProjects/FaceDet/C:\\Users\\Sibhali\\Desktop\\FaceDet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+        "merged": "A:\\Users\\mithileshhinge\\AndroidStudioProjects\\FaceDet\\C:\\Users\\Sibhali\\Desktop\\FaceDet\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "A:\\Users\\mithileshhinge\\AndroidStudioProjects\\FaceDet\\C:\\Users\\Sibhali\\Desktop\\FaceDet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\color\\abc_primary_text_material_light.xml"
     },
     {
-        "merged": "/Users/mithileshhinge/AndroidStudioProjects/FaceDet/app/build/intermediates/res/merged/debug/color/abc_tint_spinner.xml",
-        "source": "/Users/mithileshhinge/AndroidStudioProjects/FaceDet/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/color/abc_tint_spinner.xml"
+        "merged": "A:\\Users\\mithileshhinge\\AndroidStudioProjects\\FaceDet\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "A:\\Users\\mithileshhinge\\AndroidStudioProjects\\FaceDet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\color\\abc_secondary_text_material_dark.xml"
     },
     {
-        "merged": "/Users/mithileshhinge/Documents/Github/SmartEyeMarket/Part1/smarteyemarket-part1-android/FaceDet/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
-        "source": "/Users/mithileshhinge/Documents/Github/SmartEyeMarket/Part1/smarteyemarket-part1-android/FaceDet/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/color/abc_secondary_text_material_light.xml"
+        "merged": "A:\\Users\\mithileshhinge\\AndroidStudioProjects\\FaceDet\\C:\\Users\\Sibhali\\Desktop\\FaceDet\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "A:\\Users\\mithileshhinge\\AndroidStudioProjects\\FaceDet\\C:\\Users\\Sibhali\\Desktop\\FaceDet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\color\\abc_primary_text_material_dark.xml"
     },
     {
-        "merged": "/Users/mithileshhinge/AndroidStudioProjects/FaceDet/C:\\Users\\Sibhali\\Desktop\\FaceDet\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_default.xml",
-        "source": "/Users/mithileshhinge/AndroidStudioProjects/FaceDet/C:\\Users\\Sibhali\\Desktop\\FaceDet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\color\\abc_tint_default.xml"
+        "merged": "A:\\Users\\mithileshhinge\\AndroidStudioProjects\\FaceDet\\C:\\Users\\Sibhali\\Desktop\\FaceDet\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_btn_checkable.xml",
+        "source": "A:\\Users\\mithileshhinge\\AndroidStudioProjects\\FaceDet\\C:\\Users\\Sibhali\\Desktop\\FaceDet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\color\\abc_tint_btn_checkable.xml"
     },
     {
-        "merged": "/Users/mithileshhinge/AndroidStudioProjects/FaceDet/C:\\Users\\Sibhali\\Desktop\\FaceDet\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_edittext.xml",
-        "source": "/Users/mithileshhinge/AndroidStudioProjects/FaceDet/C:\\Users\\Sibhali\\Desktop\\FaceDet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\color\\abc_tint_edittext.xml"
+        "merged": "A:\\Users\\mithileshhinge\\AndroidStudioProjects\\FaceDet\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "A:\\Users\\mithileshhinge\\AndroidStudioProjects\\FaceDet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\color\\abc_primary_text_material_dark.xml"
     },
     {
-        "merged": "/Users/mithileshhinge/AndroidStudioProjects/FaceDet/C:\\Users\\Sibhali\\Desktop\\FaceDet\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
-        "source": "/Users/mithileshhinge/AndroidStudioProjects/FaceDet/C:\\Users\\Sibhali\\Desktop\\FaceDet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\color\\abc_primary_text_material_light.xml"
+        "merged": "A:\\Users\\mithileshhinge\\AndroidStudioProjects\\FaceDet\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "A:\\Users\\mithileshhinge\\AndroidStudioProjects\\FaceDet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\color\\abc_secondary_text_material_light.xml"
     },
     {
-        "merged": "/Users/mithileshhinge/AndroidStudioProjects/FaceDet/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
-        "source": "/Users/mithileshhinge/AndroidStudioProjects/FaceDet/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/color/abc_secondary_text_material_dark.xml"
+        "merged": "A:\\Users\\mithileshhinge\\Documents\\Github\\SmartEyeMarket\\Part1\\smarteyemarket-part1-android\\FaceDet\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "A:\\Users\\mithileshhinge\\Documents\\Github\\SmartEyeMarket\\Part1\\smarteyemarket-part1-android\\FaceDet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\color\\abc_secondary_text_material_light.xml"
     },
     {
-        "merged": "/Users/mithileshhinge/AndroidStudioProjects/FaceDet/C:\\Users\\Sibhali\\Desktop\\FaceDet\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
-        "source": "/Users/mithileshhinge/AndroidStudioProjects/FaceDet/C:\\Users\\Sibhali\\Desktop\\FaceDet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\color\\switch_thumb_material_light.xml"
+        "merged": "A:\\SmartEye\\SmartEye_market\\Part1\\android\\smarteyemarket-part1-android\\FaceDet\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "A:\\SmartEye\\SmartEye_market\\Part1\\android\\smarteyemarket-part1-android\\FaceDet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\color\\switch_thumb_material_dark.xml"
     },
     {
-        "merged": "/Users/mithileshhinge/AndroidStudioProjects/FaceDet/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
-        "source": "/Users/mithileshhinge/AndroidStudioProjects/FaceDet/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/color/abc_primary_text_disable_only_material_light.xml"
+        "merged": "A:\\Users\\mithileshhinge\\AndroidStudioProjects\\FaceDet\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
+        "source": "A:\\Users\\mithileshhinge\\AndroidStudioProjects\\FaceDet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\color\\abc_search_url_text.xml"
     },
     {
-        "merged": "/Users/mithileshhinge/AndroidStudioProjects/FaceDet/C:\\Users\\Sibhali\\Desktop\\FaceDet\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_thumb.xml",
-        "source": "/Users/mithileshhinge/AndroidStudioProjects/FaceDet/C:\\Users\\Sibhali\\Desktop\\FaceDet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\color\\abc_tint_switch_thumb.xml"
+        "merged": "A:\\Users\\mithileshhinge\\Documents\\Github\\SmartEyeMarket\\Part1\\smarteyemarket-part1-android\\FaceDet\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "A:\\Users\\mithileshhinge\\Documents\\Github\\SmartEyeMarket\\Part1\\smarteyemarket-part1-android\\FaceDet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\color\\abc_primary_text_disable_only_material_light.xml"
     },
     {
-        "merged": "/Users/mithileshhinge/Documents/Github/SmartEyeMarket/Part1/smarteyemarket-part1-android/FaceDet/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
-        "source": "/Users/mithileshhinge/Documents/Github/SmartEyeMarket/Part1/smarteyemarket-part1-android/FaceDet/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/color/abc_primary_text_material_light.xml"
+        "merged": "A:\\Users\\mithileshhinge\\AndroidStudioProjects\\FaceDet\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_seek_thumb.xml",
+        "source": "A:\\Users\\mithileshhinge\\AndroidStudioProjects\\FaceDet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\color\\abc_tint_seek_thumb.xml"
     },
     {
-        "merged": "/Users/mithileshhinge/AndroidStudioProjects/FaceDet/C:\\Users\\Sibhali\\Desktop\\FaceDet\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
-        "source": "/Users/mithileshhinge/AndroidStudioProjects/FaceDet/C:\\Users\\Sibhali\\Desktop\\FaceDet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\color\\abc_primary_text_material_dark.xml"
+        "merged": "A:\\SmartEye\\SmartEye_market\\Part1\\android\\smarteyemarket-part1-android\\FaceDet\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "A:\\SmartEye\\SmartEye_market\\Part1\\android\\smarteyemarket-part1-android\\FaceDet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\color\\abc_secondary_text_material_light.xml"
     },
     {
-        "merged": "/Users/mithileshhinge/AndroidStudioProjects/FaceDet/app/build/intermediates/res/merged/debug/color/abc_btn_colored_borderless_text_material.xml",
-        "source": "/Users/mithileshhinge/AndroidStudioProjects/FaceDet/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/color/abc_btn_colored_borderless_text_material.xml"
+        "merged": "A:\\Users\\mithileshhinge\\AndroidStudioProjects\\FaceDet\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "A:\\Users\\mithileshhinge\\AndroidStudioProjects\\FaceDet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\color\\switch_thumb_material_dark.xml"
     },
     {
-        "merged": "/Users/mithileshhinge/AndroidStudioProjects/FaceDet/app/build/intermediates/res/merged/debug/color/switch_thumb_material_dark.xml",
-        "source": "/Users/mithileshhinge/AndroidStudioProjects/FaceDet/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/color/switch_thumb_material_dark.xml"
+        "merged": "A:\\Users\\mithileshhinge\\AndroidStudioProjects\\FaceDet\\C:\\Users\\Sibhali\\Desktop\\FaceDet\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_edittext.xml",
+        "source": "A:\\Users\\mithileshhinge\\AndroidStudioProjects\\FaceDet\\C:\\Users\\Sibhali\\Desktop\\FaceDet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\color\\abc_tint_edittext.xml"
     },
     {
-        "merged": "/Users/mithileshhinge/AndroidStudioProjects/FaceDet/C:\\Users\\Sibhali\\Desktop\\FaceDet\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
-        "source": "/Users/mithileshhinge/AndroidStudioProjects/FaceDet/C:\\Users\\Sibhali\\Desktop\\FaceDet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\color\\switch_thumb_material_dark.xml"
+        "merged": "A:\\Users\\mithileshhinge\\AndroidStudioProjects\\FaceDet\\C:\\Users\\Sibhali\\Desktop\\FaceDet\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "A:\\Users\\mithileshhinge\\AndroidStudioProjects\\FaceDet\\C:\\Users\\Sibhali\\Desktop\\FaceDet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\color\\abc_secondary_text_material_dark.xml"
     },
     {
-        "merged": "/Users/mithileshhinge/AndroidStudioProjects/FaceDet/app/build/intermediates/res/merged/debug/color/abc_tint_seek_thumb.xml",
-        "source": "/Users/mithileshhinge/AndroidStudioProjects/FaceDet/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/color/abc_tint_seek_thumb.xml"
+        "merged": "A:\\Users\\mithileshhinge\\AndroidStudioProjects\\FaceDet\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_btn_checkable.xml",
+        "source": "A:\\Users\\mithileshhinge\\AndroidStudioProjects\\FaceDet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\color\\abc_tint_btn_checkable.xml"
     },
     {
-        "merged": "/Users/mithileshhinge/AndroidStudioProjects/FaceDet/app/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
-        "source": "/Users/mithileshhinge/AndroidStudioProjects/FaceDet/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/color/abc_search_url_text.xml"
+        "merged": "A:\\Users\\mithileshhinge\\AndroidStudioProjects\\FaceDet\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "A:\\Users\\mithileshhinge\\AndroidStudioProjects\\FaceDet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "A:\\Users\\mithileshhinge\\AndroidStudioProjects\\FaceDet\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "A:\\Users\\mithileshhinge\\AndroidStudioProjects\\FaceDet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "A:\\Users\\mithileshhinge\\AndroidStudioProjects\\FaceDet\\C:\\Users\\Sibhali\\Desktop\\FaceDet\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "A:\\Users\\mithileshhinge\\AndroidStudioProjects\\FaceDet\\C:\\Users\\Sibhali\\Desktop\\FaceDet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "A:\\Users\\mithileshhinge\\AndroidStudioProjects\\FaceDet\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "A:\\Users\\mithileshhinge\\AndroidStudioProjects\\FaceDet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "A:\\Users\\mithileshhinge\\AndroidStudioProjects\\FaceDet\\C:\\Users\\Sibhali\\Desktop\\FaceDet\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_thumb.xml",
+        "source": "A:\\Users\\mithileshhinge\\AndroidStudioProjects\\FaceDet\\C:\\Users\\Sibhali\\Desktop\\FaceDet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\color\\abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "A:\\Users\\mithileshhinge\\AndroidStudioProjects\\FaceDet\\C:\\Users\\Sibhali\\Desktop\\FaceDet\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "A:\\Users\\mithileshhinge\\AndroidStudioProjects\\FaceDet\\C:\\Users\\Sibhali\\Desktop\\FaceDet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "A:\\Users\\mithileshhinge\\Documents\\Github\\SmartEyeMarket\\Part1\\smarteyemarket-part1-android\\FaceDet\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
+        "source": "A:\\Users\\mithileshhinge\\Documents\\Github\\SmartEyeMarket\\Part1\\smarteyemarket-part1-android\\FaceDet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "A:\\Users\\mithileshhinge\\AndroidStudioProjects\\FaceDet\\C:\\Users\\Sibhali\\Desktop\\FaceDet\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_default.xml",
+        "source": "A:\\Users\\mithileshhinge\\AndroidStudioProjects\\FaceDet\\C:\\Users\\Sibhali\\Desktop\\FaceDet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\color\\abc_tint_default.xml"
+    },
+    {
+        "merged": "A:\\Users\\mithileshhinge\\Documents\\Github\\SmartEyeMarket\\Part1\\smarteyemarket-part1-android\\FaceDet\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "A:\\Users\\mithileshhinge\\Documents\\Github\\SmartEyeMarket\\Part1\\smarteyemarket-part1-android\\FaceDet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "A:\\SmartEye\\SmartEye_market\\Part1\\android\\smarteyemarket-part1-android\\FaceDet\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "A:\\SmartEye\\SmartEye_market\\Part1\\android\\smarteyemarket-part1-android\\FaceDet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\color\\abc_primary_text_material_dark.xml"
     }
 ]
