@@ -99,8 +99,10 @@ public class NotifyService extends Service {
                         InputStream in = client.getInputStream();
                         OutputStream out = client.getOutputStream();
                         int p = in.read();
+                        /*if(p==1) notifBuilder.setContentTitle("Face Found...Generating Video...");
+                        else notifBuilder.setContentTitle("Alert Level 1!");*/
                         System.out.println("NOTIF RECIEVED: "+String.valueOf(p));
-                        out.write(1);
+                        out.write(9);
                         out.flush();
                         DataInputStream din = new DataInputStream(in);
                         MY_NOTIFICATION_ID = din.readInt();
@@ -113,6 +115,8 @@ public class NotifyService extends Service {
                             InputStream inNotifVdo = clientVdo.getInputStream();
                             OutputStream outNotifVdo = clientVdo.getOutputStream();
                             int p2 = inNotifVdo.read();
+                            /*if(p2==2) notifVdoBuilder.setContentTitle("Face Found... Video Generated...");
+                            else notifVdoBuilder.setContentTitle("Alert Level 2!");*/
                             System.out.print("NOTIF RECIEVED: " + String.valueOf(p2));
                             outNotifVdo.write(1);
                             outNotifVdo.flush();
