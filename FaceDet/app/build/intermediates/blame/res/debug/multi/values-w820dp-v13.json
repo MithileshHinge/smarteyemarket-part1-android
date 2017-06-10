@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/Users/mithileshhinge/Documents/Github/SmartEyeMarket/Part1/smarteyemarket-part1-android/FaceDet/A:\\Users\\mithileshhinge\\AndroidStudioProjects\\FaceDet\\app\\build\\intermediates\\res\\merged\\debug\\values-w820dp-v13\\values-w820dp-v13.xml",
+        "outputFile": "/Volumes/NO NAME/smarteyemarket-part1-android/FaceDet/app/build/intermediates/res/merged/debug/values-w820dp-v13/values-w820dp-v13.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 108
                 },
                 "from": {
-                    "file": "/Users/mithileshhinge/Documents/Github/SmartEyeMarket/Part1/smarteyemarket-part1-android/FaceDet/A:\\Users\\mithileshhinge\\AndroidStudioProjects\\FaceDet\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "file": "/Volumes/NO NAME/smarteyemarket-part1-android/FaceDet/app/src/main/res/values-w820dp/dimens.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -24,7 +24,7 @@
         ]
     },
     {
-        "outputFile": "/Users/mithileshhinge/Documents/Github/SmartEyeMarket/Part1/smarteyemarket-part1-android/FaceDet/A:\\SmartEye\\SmartEye_market\\Part1\\android\\smarteyemarket-part1-android\\FaceDet\\app\\build\\intermediates\\res\\merged\\debug\\values-w820dp-v13\\values-w820dp-v13.xml",
+        "outputFile": "/Volumes/NO NAME/smarteyemarket-part1-android/FaceDet/G:\\GitHub\\SmartEye\\SmartEyemarket\\Part1\\Android\\smarteyemarket-part1-android\\FaceDet\\app\\build\\intermediates\\res\\merged\\debug\\values-w820dp-v13\\values-w820dp-v13.xml",
         "map": [
             {
                 "to": {
@@ -35,79 +35,7 @@
                     "endOffset": 108
                 },
                 "from": {
-                    "file": "/Users/mithileshhinge/Documents/Github/SmartEyeMarket/Part1/smarteyemarket-part1-android/FaceDet/A:\\SmartEye\\SmartEye_market\\Part1\\android\\smarteyemarket-part1-android\\FaceDet\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 295,
-                        "endColumn": 57,
-                        "endOffset": 348
-                    }
-                }
-            }
-        ]
-    },
-    {
-        "outputFile": "/Users/mithileshhinge/Documents/Github/SmartEyeMarket/Part1/smarteyemarket-part1-android/FaceDet/A:\\Users\\mithileshhinge\\Documents\\Github\\SmartEyeMarket\\Part1\\smarteyemarket-part1-android\\FaceDet\\app\\build\\intermediates\\res\\merged\\debug\\values-w820dp-v13\\values-w820dp-v13.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 55,
-                    "endColumn": 57,
-                    "endOffset": 108
-                },
-                "from": {
-                    "file": "/Users/mithileshhinge/Documents/Github/SmartEyeMarket/Part1/smarteyemarket-part1-android/FaceDet/A:\\Users\\mithileshhinge\\Documents\\Github\\SmartEyeMarket\\Part1\\smarteyemarket-part1-android\\FaceDet\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 295,
-                        "endColumn": 57,
-                        "endOffset": 348
-                    }
-                }
-            }
-        ]
-    },
-    {
-        "outputFile": "/Users/mithileshhinge/Documents/Github/SmartEyeMarket/Part1/smarteyemarket-part1-android/FaceDet/A:\\Users\\mithileshhinge\\AndroidStudioProjects\\FaceDet\\C:\\Users\\Sibhali\\Desktop\\FaceDet\\app\\build\\intermediates\\res\\merged\\debug\\values-w820dp-v13\\values-w820dp-v13.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 55,
-                    "endColumn": 57,
-                    "endOffset": 108
-                },
-                "from": {
-                    "file": "/Users/mithileshhinge/Documents/Github/SmartEyeMarket/Part1/smarteyemarket-part1-android/FaceDet/A:\\Users\\mithileshhinge\\AndroidStudioProjects\\FaceDet\\C:\\Users\\Sibhali\\Desktop\\FaceDet\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 295,
-                        "endColumn": 57,
-                        "endOffset": 348
-                    }
-                }
-            }
-        ]
-    },
-    {
-        "outputFile": "/Users/mithileshhinge/Documents/Github/SmartEyeMarket/Part1/smarteyemarket-part1-android/FaceDet/app/build/intermediates/res/merged/debug/values-w820dp-v13/values-w820dp-v13.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 55,
-                    "endColumn": 57,
-                    "endOffset": 108
-                },
-                "from": {
-                    "file": "/Users/mithileshhinge/Documents/Github/SmartEyeMarket/Part1/smarteyemarket-part1-android/FaceDet/app/src/main/res/values-w820dp/dimens.xml",
+                    "file": "/Volumes/NO NAME/smarteyemarket-part1-android/FaceDet/G:\\GitHub\\SmartEye\\SmartEyemarket\\Part1\\Android\\smarteyemarket-part1-android\\FaceDet\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,

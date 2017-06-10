@@ -12,6 +12,8 @@ public class DisplayImageActivity extends AppCompatActivity {
     public static boolean frameChanged = false;
     public static Bitmap frame = null;
     public static Button Exit_button;
+    private static Client client;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -19,8 +21,8 @@ public class DisplayImageActivity extends AppCompatActivity {
         img = (ImageView) findViewById(R.id.imageView);
         Exit_button = (Button) findViewById(R.id.Exit_button);
 
-        Thread t = new Client();
-        t.start();
+        client = new Client();
+        client.start();
 
         Exit_button.setOnClickListener(new View.OnClickListener() {
             public void onClick(View v) {
@@ -46,5 +48,11 @@ public class DisplayImageActivity extends AppCompatActivity {
         });
         t2.start();
 
+    }
+
+    @Override
+    protected void onPause() {
+        client.end();
+        super.onPause();
     }
 }
