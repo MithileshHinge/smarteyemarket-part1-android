@@ -118,7 +118,7 @@ public class NotifyService extends Service {
                             /*if(p2==2) notifVdoBuilder.setContentTitle("Face Found... Video Generated...");
                             else notifVdoBuilder.setContentTitle("Alert Level 2!");*/
                             System.out.print("NOTIF RECIEVED: " + String.valueOf(p2));
-                            outNotifVdo.write(1);
+                            outNotifVdo.write(9);
                             outNotifVdo.flush();
                             DataInputStream dInNotifVdo = new DataInputStream(inNotifVdo);
                             MY_VIDEO_NOTIFICATION_ID = dInNotifVdo.readInt();

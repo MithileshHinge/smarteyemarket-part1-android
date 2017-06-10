@@ -68,6 +68,10 @@ public class MainActivity extends AppCompatActivity {
         }
 
 
+        File fTempDir = getFilesDir();
+        deleteRecursive(fTempDir);
+
+
         jIV.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -158,6 +162,16 @@ public class MainActivity extends AppCompatActivity {
             }
 
         });
+    }
+
+    private void deleteRecursive(File fTempDir) {
+        if (fTempDir.isDirectory()){
+            for (File fTemp : fTempDir.listFiles()) {
+                deleteRecursive(fTemp);
+            }
+        }
+
+        fTempDir.delete();
     }
 
     @Override
